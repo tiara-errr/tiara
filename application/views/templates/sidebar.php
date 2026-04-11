@@ -12,10 +12,11 @@
 
 <li class="nav-item">
     <a class="nav-link" href="#">
-        <i class="fas fa-fw fa-tachomer-alt"></i>
+        <i class="fas fa-fw fa-tachometer-alt"></i>
         <span>Dashboard</span>
     </a>
 </li>
+<hr class="sidebar-divider my-0">
 
 <li class="nav-item">
     <a class="nav-link" href="<?= site_url ('kategori') ?>">
@@ -25,7 +26,7 @@
 </li>
 
 <hr class="sidebar-divider d-none d-md-block">
-
+\
 </ul>
  <div id="content-wrapper" class="d-flex flex-column">
             <div id="content">
